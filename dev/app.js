@@ -1,0 +1,1 @@
+const thisApp = angular.module('userProfiles', []);
